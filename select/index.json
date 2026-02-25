@@ -1,16 +1,152 @@
 {
   "version": 1,
-  "base_track": "ロンリーハイドアンドシーカー",
-  "base_artist": "AVACLUB",
-  "createdAt": "2026-02-25T02:32:02.685943Z",
+  "base_track": "Revival",
+  "base_artist": "OddRe:",
+  "createdAt": "2026-02-25T02:32:39.387674Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "First Revival",
+      "artist": "The Amps",
+      "has_synced": false,
+      "path": "select/01_First_Revival_The_Amps.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seven Hours Part 1 (feat. BennY RevivaL)",
+      "artist": "Blood Orange",
+      "has_synced": true,
+      "path": "select/02_Seven_Hours_Part_1_(feat._BennY_RevivaL)_Blood_Orange.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Revival",
+      "artist": "Deerhunter",
+      "has_synced": false,
+      "path": "select/03_Revival_Deerhunter.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Revival",
+      "artist": "Deerhunter",
+      "has_synced": true,
+      "path": "select/04_Revival_Deerhunter.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Revival",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/05_Revival_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chala Jata Hoon (Revival) [From \"Mere Jeevan Saathi\"]",
+      "artist": "Kishore Kumar",
+      "has_synced": false,
+      "path": "select/06_Chala_Jata_Hoon_(Revival)_[From__Mere_Jeevan_Saathi_]_Kishore_Kumar.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ek Main Aur Ek Tu (Revival)",
+      "artist": "Asha Bhosle & Kishore Kumar",
+      "has_synced": true,
+      "path": "select/07_Ek_Main_Aur_Ek_Tu_(Revival)_Asha_Bhosle_&_Kishore_Kumar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Revival",
+      "artist": "Orgy",
+      "has_synced": true,
+      "path": "select/08_Revival_Orgy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Through the Eyes of the Killer - Revival of the Muse That is Violence",
+      "artist": "Manticora",
+      "has_synced": true,
+      "path": "select/09_Through_the_Eyes_of_the_Killer_-_Revival_of_the_Muse_That_is_Violence_Manticora.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Morning Revival",
+      "artist": "Good Charlotte",
+      "has_synced": false,
+      "path": "select/10_Good_Morning_Revival_Good_Charlotte.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Revival",
+      "artist": "Selena Gomez",
+      "has_synced": true,
+      "path": "select/11_Revival_Selena_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Revival Never Goes Out Of Style",
+      "artist": "Walls of Jericho",
+      "has_synced": true,
+      "path": "select/12_Revival_Never_Goes_Out_Of_Style_Walls_of_Jericho.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Revival",
+      "artist": "Squallor",
+      "has_synced": false,
+      "path": "select/13_Revival_Squallor.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Revival",
+      "artist": "Soulsavers",
+      "has_synced": true,
+      "path": "select/14_Revival_Soulsavers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jerry Lee's Rock and Roll Revival Show",
+      "artist": "Jerry Lee Lewis",
+      "has_synced": true,
+      "path": "select/15_Jerry_Lee's_Rock_and_Roll_Revival_Show_Jerry_Lee_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Revival Never Goes Out Of Style",
+      "artist": "Walls of Jericho",
+      "has_synced": true,
+      "path": "select/16_Revival_Never_Goes_Out_Of_Style_Walls_of_Jericho.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Revival",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/17_Revival_Masayuki_Suzuki.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ロンリーハイドアンドシーカー",
-      "artist": "AVACLUB",
+      "title": "Revival",
+      "artist": "OddRe:",
       "has_synced": false,
-      "path": "select/pl_01_ロンリーハイドアンドシーカー_AVACLUB.txt"
+      "path": "select/pl_01_Revival_OddRe.txt"
     }
   ]
 }
